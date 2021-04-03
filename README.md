@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharmaneAshbrook
-- 👀 I’m interested in fish, habitat, environmental science, behavior, evolution
+- 👀 I’m interested in fish, habitat, environmental science, behavior, evolution, nutrition
 - 🌱 I’m currently learning how to be a better R programmer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... open to anything
 - 📫 How to reach me charmane@uw.edu
 
 <!---
